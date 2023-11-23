@@ -1,0 +1,23 @@
+{
+  "name": "hooshabi.smart.home",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "mysql2": "^3.6.2",
+    "sequelize": "^6.33.0",
+    "sequelize-auto": "^0.8.8",
+    "tedious": "^16.6.0",
+    "ws": "^8.14.2"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^8.3.1"
+  }
+}
